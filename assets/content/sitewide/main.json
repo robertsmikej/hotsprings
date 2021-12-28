@@ -1,0 +1,57 @@
+{
+  "locations": [
+    {
+      "zip": "",
+      "city": "Meridian",
+      "name": "Idaho",
+      "phone": "",
+      "state": "ID",
+      "address_line_1": "",
+      "address_line_2": "",
+      "address_line_3": "",
+      "email": "contact@hotspringing.com"
+    }
+  ],
+  "options": {
+    "nav": {
+      "hamburger": true,
+      "show_name": true,
+      "show_logo": true,
+      "styles": {
+        "background-color": "White",
+        "color": "Blue - Dark"
+      }
+    }
+  },
+  "persistentbar": {
+    "show_sitewide_persistent_bar": true,
+    "styles": {
+      "class_alignment": "Center",
+      "backgroundColor_bar": "White",
+      "color_bar": "Blue - Dark"
+    },
+    "text": "The New Year Is Here! Check Out Our Favorite Winter Hot Springs.",
+    "link": "/favorites"
+  },
+  "footer": {
+    "styles": {
+      "style_backgroundColor_footer": "Black",
+      "style_color_footer": "Blue - Dark"
+    },
+    "show_logo": true,
+    "show_site_links": true,
+    "show_social": true,
+    "para": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+  },
+  "version_name": "Main",
+  "name": "HotSpringing.com",
+  "social_media": {
+    "social_media": [
+      {
+        "which": "Facebook",
+        "show_social": true,
+        "username": "hotspringing"
+      }
+    ]
+  }
+}
