@@ -1,9 +1,20 @@
 ---
-templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
+templateKey: index-page
+page_name: HotSpringing.com
+path: /
+seo:
+  title: HotSpringing.com
+  description: Find out the 'Who, What, When, and Where' of some of the best
+    natural hot springs near Boise, around the Treasure Valley, and Idaho.
+  indexfollow: index, follow
+heroBanner:
+  show_hero: true
+  header_1: WINTER HAS COME.
+  header_2: Find out the 'Who, What, When, and Where' of some of the best natural
+    hot springs near Boise and around the Treasure Valley.
+  background_desktop: /img/mountain-village-hero.jpg
 mainpitch:
   title: Why Kaldi
   description: >
@@ -11,11 +22,6 @@ mainpitch:
     shouldn't just taste good, it should do good too. We source all of our beans
     directly from small scale sustainable farmers and make sure part of the
     profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -51,6 +57,7 @@ intro:
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
+title: Great coffee with a conscience
 main:
   heading: Great coffee with no compromises
   description: >
@@ -67,4 +74,9 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+image: /img/home-jumbotron.jpg
+description: Kaldi is the ultimate spot for coffee lovers who want to learn
+  about their java’s origin and support the farmers that grew it. We take coffee
+  production, roasting and brewing seriously and we’re glad to pass that
+  knowledge to anyone.
 ---
