@@ -1,0 +1,18 @@
+{
+  "status": true,
+  "nav_items": [
+    {
+      "status": true,
+      "title": "Home",
+      "para": "Go Home",
+      "link": "/"
+    },
+    {
+      "status": true,
+      "title": "Hot Springs",
+      "para": "List Of Hot Springs",
+      "link": "/hotsprings"
+    }
+  ],
+  "title": "Nav"
+}

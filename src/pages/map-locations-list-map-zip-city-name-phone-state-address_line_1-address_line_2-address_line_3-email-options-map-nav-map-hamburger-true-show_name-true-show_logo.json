@@ -1,0 +1,41 @@
+{
+  "locations": [
+    {
+      "zip": "",
+      "city": "",
+      "name": "",
+      "phone": "",
+      "state": "",
+      "address_line_1": "",
+      "address_line_2": "",
+      "address_line_3": "",
+      "email": ""
+    }
+  ],
+  "options": {
+    "nav": {
+      "hamburger": true,
+      "show_name": true,
+      "show_logo": true,
+      "styles": {
+        "background-color": "White",
+        "color": "Black"
+      }
+    }
+  },
+  "persistentbar": {
+    "show_sitewide_persistent_bar": false,
+    "styles": {
+      "class_alignment": "Center",
+      "backgroundColor_bar": "White",
+      "color_bar": "Black"
+    }
+  },
+  "footer": {
+    "styles": {
+      "style_backgroundColor_footer": "Black",
+      "style_color_footer": "White"
+    }
+  },
+  "page_name": "index"
+}
