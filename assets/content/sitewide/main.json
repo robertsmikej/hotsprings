@@ -16,7 +16,7 @@
     "nav": {
       "hamburger": true,
       "show_name": true,
-      "show_logo": true,
+      "show_logo": false,
       "styles": {
         "background-color": "White",
         "color": "Blue - Dark"
